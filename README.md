@@ -52,5 +52,3 @@ Acknowledgments
 The developers and contributors of the libraries and frameworks used in Expense Tracer.
 The open-source community for providing valuable resources and inspiration.
 Contact
-
-If you have any questions, suggestions, or issues related to Expense Tracer, please feel free to contact us at sabinpoudel6969@gmail.com. We appreciate your feedback and will be happy to assist you.
